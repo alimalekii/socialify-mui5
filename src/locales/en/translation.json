@@ -1,0 +1,17 @@
+{
+  "navbar__search__input__place-holder": "search...",
+  "navbar__icons__menu-item--profile": "Profile",
+  "navbar__icons__menu-item--my-account": "My Account",
+  "navbar__icons__menu-item--log-out": "Logout",
+  "sidebar__item--homepage": "homepage",
+  "sidebar__item--pages": "Pages",
+  "sidebar__item--groups": "Groups",
+  "sidebar__item--marketplace": "Marketplace",
+  "sidebar__item--friends": "Friends",
+  "sidebar__item--settings": "Settings",
+  "sidebar__item--profile": "Profile",
+  "rightbar__section---online-firends__title": "Online Friends",
+  "rightbar__section---save-photos__title": "Saved Photos",
+  "rightbar__section---latest-conversation__title": "Latest Conversations",
+  "add-post__tooltip__title": "Add Post"
+}

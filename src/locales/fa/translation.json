@@ -1,0 +1,17 @@
+{
+  "navbar__search__input__place-holder": "جستجو",
+  "navbar__icons__menu-item--profile": "پروفایل",
+  "navbar__icons__menu-item--my-account": "حساب من",
+  "navbar__icons__menu-item--log-out": "خروج",
+  "sidebar__item--homepage": "خانه",
+  "sidebar__item--pages": "صفحات",
+  "sidebar__item--groups": "گروه ها",
+  "sidebar__item--marketplace": "فروشگاه",
+  "sidebar__item--friends": "دوستان",
+  "sidebar__item--settings": "تنظیمات",
+  "sidebar__item--profile": "پروفایل",
+  "rightbar__section---online-firends__title": "دوستان آنلاین",
+  "rightbar__section---save-photos__title": "تصاویر ذخیره شده",
+  "rightbar__section---latest-conversation__title": "آخرین گفتگو ها",
+  "add-post__tooltip__title": "ایجاد پست"
+}
